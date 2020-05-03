@@ -4,6 +4,11 @@
 
 ## Snapshot of short-term predictions
 
+#### Global
+![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05022020.png)
+
+![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05022020.png)
+
 
 ## Data
 
