@@ -5,10 +5,10 @@
 ## Snapshot of short-term predictions
 
 #### Number of confirmed cases by country (including predictions for next 5 days)
-![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05022020.png){:height="50%" width="50%"}
+![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05022020.png | width=48)
 
 #### Number of deaths by country (including predictions for next 5 days)
-![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05022020.png){:height="50%" width="50%"}
+![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05022020.png | width=48)
 
 
 ## Data
