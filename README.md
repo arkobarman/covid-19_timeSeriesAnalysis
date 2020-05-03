@@ -10,6 +10,17 @@
 #### Number of deaths by country (including predictions for next 5 days)
 ![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05022020.png)
 
+#### Number of confirmed cases by US states (including predictions for next 5 days)
+![Prediction of confirmed cases in US](screenshots/predictions_covid-19_USStates_05022020.png)
+
+#### Number of deaths by US states (including predictions for next 5 days)
+![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05022020.png)
+
+
+## Comments
+
+Although countries like Italy, Germany, France, and Spain seem to be reaching a plateau, the curve for US indicates that it is not yet close to a plateau, both in terms of number of cases as well as in terms of number of deaths.
+
 
 ## Data
 
