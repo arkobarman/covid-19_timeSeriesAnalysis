@@ -5,16 +5,16 @@
 ## Snapshot of short-term predictions
 
 #### Number of confirmed cases by country (including predictions for next 5 days)
-![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05022020.png)
+![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05042020.png)
 
 #### Number of deaths by country (including predictions for next 5 days)
-![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05022020.png)
+![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05042020.png)
 
 #### Number of confirmed cases by US states (including predictions for next 5 days)
-![Prediction of confirmed cases in US](screenshots/predictions_covid-19_USStates_05022020.png)
+![Prediction of confirmed cases in US](screenshots/predictions_covid-19_USStates_05042020.png)
 
 #### Number of deaths by US states (including predictions for next 5 days)
-![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05022020.png)
+![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05042020.png)
 
 
 ## Comments
