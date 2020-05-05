@@ -27,6 +27,8 @@
 
 Although countries like Italy, Germany, France, and Spain seem to be reaching a plateau, the curve for US indicates that it is not yet close to a plateau, both in terms of number of cases as well as in terms of number of deaths.
 
+Puerto Rico is underserved - the number of tests per million is fewer than 5000, far fewer than any other state.
+
 
 ## Data
 
