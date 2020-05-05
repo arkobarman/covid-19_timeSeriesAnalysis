@@ -4,6 +4,12 @@
 
 ## Snapshot of short-term predictions
 
+#### Relationship of hospitalization vs. open cases by US states 
+#### [Click here for Interactive Plot](https://github.com/arkobarman/covid-19_timeSeriesAnalysis/blob/master/screenshots/hospitalizationVsOpenCases_USStates.html)
+#### (color bar indicates percentage of tested people appearing positive)
+#### (size of marker indicates percentage of hospitalized patients out of positive tests)
+![HOspitalization vs open cases](screenshots/hospitalizationVsOpenCases_USStates.PNG)
+
 #### Number of confirmed cases by country (including predictions for next 5 days)
 ![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05042020.png)
 
@@ -15,11 +21,6 @@
 
 #### Number of deaths by US states (including predictions for next 5 days)
 ![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05042020.png)
-
-#### Relationship of hospitalization vs. open cases by US states (Interactive plot: screenshots/hospitalizationVsOpenCases_USStates.html)
-#### (color bar indicates percentage of tested people appearing positive)
-#### (size of marker indicates percentage of hospitalized patients out of positive tests)
-![HOspitalization vs open cases](screenshots/hospitalizationVsOpenCases_USStates.PNG)
 
 
 ## Comments
