@@ -4,8 +4,7 @@
 
 ## Snapshot of short-term predictions
 
-#### Relationship of hospitalization vs. open cases by US states 
-#### [Click here for Interactive Plot](https://uzp5b63rpggwnmyj4tylzg-on.drv.tw/covid-19/hospitalizationVsOpenCases_USStates.html)
+#### Relationship of hospitalization vs. open cases by US states [(Click here for Interactive Plot)](https://uzp5b63rpggwnmyj4tylzg-on.drv.tw/covid-19/hospitalizationVsOpenCases_USStates.html)
 #### (color bar indicates percentage of tested people appearing positive)
 #### (size of marker indicates percentage of hospitalized patients out of positive tests)
 ![HOspitalization vs open cases](screenshots/hospitalizationVsOpenCases_USStates.PNG)
