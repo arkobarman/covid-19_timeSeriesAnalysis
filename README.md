@@ -16,6 +16,11 @@
 #### Number of deaths by US states (including predictions for next 5 days)
 ![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05042020.png)
 
+#### Relationship of hospitalization vs. open cases by US states 
+#### (color bar indicates percentage of tested people appearing positive)
+#### (size of marker indicates percentage of hospitalized patients out of positive tests)
+![Prediction of deaths in US](screenshots/hospitalizationVsOpenCases_USStates.PNG)
+
 
 ## Comments
 
