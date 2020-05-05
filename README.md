@@ -1,6 +1,6 @@
 # Time Series Analysis of covid-19 data
 
-### (Epidemiological analysis is in the pipeline)
+##### (Epidemiological analysis is in the pipeline)
 
 ## Snapshot of short-term predictions
 
