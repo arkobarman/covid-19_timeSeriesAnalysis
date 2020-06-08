@@ -11,16 +11,16 @@
 ![Positive vs tested per million](screenshots/positiveVsTestedPerMillion_USStates.PNG)
 
 ### Number of confirmed cases by country (including predictions for next 5 days)
-![Prediction of confirmed cases globally](screenshots/predictions_covid-19_05202020.png)
+![Prediction of confirmed cases globally](screenshots/predictions_covid-19_06082020.png)
 
 ### Number of deaths by country (including predictions for next 5 days)
-![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_05202020.png)
+![Prediction of deaths globally](screenshots/predictions_covid-19_deaths_06082020.png)
 
 ### Number of confirmed cases by US states (including predictions for next 5 days)
-![Prediction of confirmed cases in US](screenshots/predictions_covid-19_USStates_05202020.png)
+![Prediction of confirmed cases in US](screenshots/predictions_covid-19_USStates_06082020.png)
 
 ### Number of deaths by US states (including predictions for next 5 days)
-![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_05202020.png)
+![Prediction of deaths in US](screenshots/predictions_covid-19_USStates_deaths_06082020.png)
 
 
 ## Comments
